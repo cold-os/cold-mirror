@@ -1,6 +1,6 @@
 # ColdMirror: A Lightweight Agent Framework Based on CAGE
 
-![Status](https://img.shields.io/badge/Status-Experimental-orange)
+![Status](https://img.shields.io/badge/Status-Experimental-orange)  
 **ColdMirror** is an experimental lightweight agent framework built upon the [CAGE](https://github.com/CognitiveCityState/ColdCAGE) security isolation layer. It securely integrates large language model capabilities into concrete application scenarios through distributed scripts and a one-time token mechanism. As an engineering practice of *[The Cold Existence Model: A Fact-based Ontological Framework for AI](https://doi.org/10.6084/m9.figshare.31696846)* in the direction of **agent proxy execution**, this project aims to explore an implementation path for lightweight, controllable, and auditable AI agents.
 
 ---
