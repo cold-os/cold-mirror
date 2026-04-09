@@ -1,4 +1,26 @@
+<div align="center">
+    
+[English](README.md) | [中文](README.zh.md)
+
+</div>
+
+<div align="center">
+    
 # ColdMirror：基于CAGE的轻量化智能体框架
+
+</div>
+
+<div align="center">
+
+[![arXiv](https://img.shields.io/badge/arXiv-2512.08740-brightgreen.svg)](https://arxiv.org/abs/<2512.08740>)
+[![DOI](https://img.shields.io/badge/DOI-10.48550/arXiv.2512.08740-brightgreen.svg)](https://doi.org/10.48550/arXiv.2512.08740)
+[![figshare](https://img.shields.io/badge/figshare-31696846-blueviolet.svg?logo=figshare&logoColor=white)](https://doi.org/10.6084/m9.figshare.31696846)
+[![DOI](https://img.shields.io/badge/DOI-10.6084/m9.figshare.31696846-blueviolet.svg)](https://doi.org/10.6084/m9.figshare.31696846)
+[![Python](https://img.shields.io/badge/Python-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+![Status](https://img.shields.io/badge/Status-Pre--Alpha--Prototype-orange)
+
+</div>
 
 ![Status](https://img.shields.io/badge/Status-Experimental-orange)  
 **ColdMirror**是一个实验性的轻量级智能体框架，基于[CAGE](https://github.com/CognitiveCityState/ColdCAGE)安全隔离层构建，通过分布式脚本与一次性令牌机制，将大模型的能力安全地接入具体应用场景。本项目是《[冷存在模型：一个基于事实的人工智能本体论框架](https://doi.org/10.6084/m9.figshare.31696846)》在“智能体代执行”方向上的工程实践，旨在探索“轻量、可控、可审计”的智能体实现路径。
