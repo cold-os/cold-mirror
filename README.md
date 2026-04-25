@@ -22,7 +22,7 @@
 
 </div>
 
-**ColdMirror** is an experimental lightweight agent framework built upon the [CAGE](https://github.com/CognitiveCityState/ColdCAGE) security isolation layer. It securely integrates large language model capabilities into concrete application scenarios through distributed scripts and a one-time token mechanism. As an engineering practice of *[The Cold Existence Model: A Fact-based Ontological Framework for AI](https://doi.org/10.6084/m9.figshare.31696846)* in the direction of **agent proxy execution**, this project aims to explore an implementation path for lightweight, controllable, and auditable AI agents.
+**ColdMirror** is an experimental lightweight agent framework built upon the [CAGE](https://github.com/cold-os/cold-cage) security isolation layer. It securely integrates large language model capabilities into concrete application scenarios through distributed scripts and a one-time token mechanism. As an engineering practice of *[The Cold Existence Model: A Fact-based Ontological Framework for AI](https://doi.org/10.6084/m9.figshare.31696846)* in the direction of **agent proxy execution**, this project aims to explore an implementation path for lightweight, controllable, and auditable AI agents.
 
 ---
 
@@ -248,8 +248,8 @@ We welcome developers interested in agent security and ERP intelligence to join 
 ## Citation
 
 Lu, Y. (2026). *The Cold Existence Model: A Fact-based Ontological Framework for AI*. figshare. [https://doi.org/10.6084/m9.figshare.31696846](https://doi.org/10.6084/m9.figshare.31696846)
-Lu, Y. (2025). *Deconstructing the Dual Black Box: A Plug-and-Play Cognitive Framework for Human-AI Collaborative Enhancement and Its Implications for AI Governance*. arXiv. [https://doi.org/10.48550/arXiv.2512.08740](https://doi.org/10.48550/arXiv.2512.08740)
-CAGE Repository: [https://github.com/CognitiveCityState/ColdCAGE](https://github.com/CognitiveCityState/ColdCAGE)
+Lu, Y. (2025). *Deconstructing the Dual Black Box: A Plug-and-Play Cognitive Framework for Human-AI Collaborative Enhancement and Its Implications for AI Governance*. arXiv. [https://doi.org/10.48550/arXiv.2512.08740](https://doi.org/10.48550/arXiv.2512.08740)  
+CAGE Repository: [https://github.com/cold-os/cold-cage](https://github.com/cold-os/cold-cage)
 
 ---
 
